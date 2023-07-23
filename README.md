@@ -10,4 +10,3 @@ Then  eet path 'for_testing' and run function ... for testing as shown in Fig. 2
 ![screen2](https://github.com/nisanurtas/FaceMatching/assets/73359949/03ce8c46-76e3-4c50-90ed-5e22b16440c4)
 
 
-[face.zip](https://github.com/nisanurtas/FaceMatching/files/12138175/face.zip)
