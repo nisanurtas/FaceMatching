@@ -6,7 +6,7 @@ To use it first you have to set path  'for_training' and run function ... for tr
 
 ![screen1](https://github.com/nisanurtas/FaceMatching/assets/73359949/9a0ca3af-98e2-4088-a00e-b5c831373028)
 
-Then  eet path 'for_testing' and run function ... for testing as shown in Fig. 2.
+Then  set path 'for_testing' and run function ... for testing as shown in Fig. 2.
 ![screen2](https://github.com/nisanurtas/FaceMatching/assets/73359949/03ce8c46-76e3-4c50-90ed-5e22b16440c4)
 
 
